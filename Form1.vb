@@ -255,16 +255,4 @@
         End If
 
     End Sub
-
-    Private Sub NewOrderButton_Click(sender As Object, e As EventArgs) Handles NewOrderButton.Click
-
-    End Sub
-
-    Private Sub AvailableProductsGroupBox_Enter(sender As Object, e As EventArgs) Handles AvailableProductsGroupBox.Enter
-
-    End Sub
-
-    Private Sub AvailableProductsGroupBox_PreviewKeyDown(sender As Object, e As PreviewKeyDownEventArgs) Handles AvailableProductsGroupBox.PreviewKeyDown
-
-    End Sub
 End Class
