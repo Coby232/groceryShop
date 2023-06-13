@@ -182,7 +182,7 @@
 
     'Place Order
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles PlaceOrderButton.Click
-        If QuantityTextBox.Text <> "" And PhoneNumberTextBox.MaskCompleted = True And CCTextBox.MaskCompleted = True AvailableProductsGroupBox = True Then
+        If QuantityTextBox.Text <> "" And PhoneNumberTextBox.MaskCompleted = True And CCTextBox.MaskCompleted = True Then
             If IsNumeric(QuantityTextBox.Text) Then
                 Try
 
