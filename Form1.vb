@@ -8,9 +8,6 @@
     'Total Cost of Purchase
     Public TotalCost As Decimal
 
-    'CheckBoxInUse
-
-
     'Available Products Prices
     Const BreadPrice As Double = 2
     Const MeatPrice As Double = 10
