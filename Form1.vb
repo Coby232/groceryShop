@@ -9,16 +9,16 @@
     Public TotalCost As Decimal
 
     'Available Products Prices
-    Const BreadPrice As Double = 2
-    Const MeatPrice As Double = 10
-    Const SFoodPrice As Double = 5
-    Const PastaPrice As Double = 13
-    Const RicePrice As Double = 20
-    Const OilPrice As Double = 30
-    Const SaucePrice As Double = 15
-    Const CerealsPrice As Double = 18
-    Const EggsPrice As Double = 1
-    Const CheesePrice As Double = 1
+    Const BreadPrice As Double = 2.0
+    Const MeatPrice As Double = 10.0
+    Const SFoodPrice As Double = 5.0
+    Const PastaPrice As Double = 13.0
+    Const RicePrice As Double = 20.0
+    Const OilPrice As Double = 30.0
+    Const SaucePrice As Double = 15.0
+    Const CerealsPrice As Double = 18.0
+    Const EggsPrice As Double = 1.0
+    Const CheesePrice As Double = 1.0
 
     'Disable CheckBoxes
     Friend Function DisableCheckBoxes$()
